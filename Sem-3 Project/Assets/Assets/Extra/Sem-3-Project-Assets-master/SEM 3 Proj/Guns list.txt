@@ -1,0 +1,44 @@
+PISTOL:
+
++Glock
++44 magnum 
++Berettas	
++Colt
+
+SHOTGUN:
+
++M133
++SPAS-12
++Double barrel
++sawed off
+
+SMG:
+
+MP40
++P 90 
+Vector .45 ACP
+UZi
+
+ASSAULT:
+
++AK-47 
++M4A
+M16 
+Scar
+
+
+SNIPER:
+
+Dragunov
+Jaeger 7 Lancer 
+Jaeger 7
++Arcl
+
+HEAVY MACHINE GUN:
+
+M60 
+PKM 
+PKT
+Type 96
+
+
